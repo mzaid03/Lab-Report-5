@@ -17,7 +17,9 @@ The toLowerArray method in the `ListExamples` class takes an array of strings as
 
 File and Directory Structure:
 `ListExamples.java`
+
 `ListExamplesTest.java`
+
 `test.sh`
 
 The command line that I am using:
